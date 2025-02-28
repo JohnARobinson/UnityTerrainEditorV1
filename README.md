@@ -7,8 +7,8 @@ Difficulties choosing between large mesh with submeshes or indivdual meshes for 
 
 Abandoned this project so far as was mesh generation system did not work with dynamic mesh texture merging. Related game idea's are preserved just code progress thus far on this project scrapped 
 
-Included functions so far
--functional menu system
--dynamic mesh tile terrain system with interface to change y value
--dynamic mesh tile texture system: in progress - difficulties with including large number of submeshes for each texture type, along with texture merging.
--mesh save and load menu/system: in progress
+Included functions so far<br>
+-functional menu system<br>
+-dynamic mesh tile terrain system with interface to change y value<br>
+-dynamic mesh tile texture system: in progress - difficulties with including large number of submeshes for each texture type, along with texture merging.<br>
+-mesh save and load menu/system: in progress<br>
